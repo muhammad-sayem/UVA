@@ -57,7 +57,6 @@ int main()
             else cout << x << " " << "not found" << endl;
         }
         t++;
-
     }
 
     return 0;
